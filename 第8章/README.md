@@ -9,6 +9,7 @@
 
 ![](https://github.com/ABHCYL/Learn-Csapp/blob/main/%E7%AC%AC8%E7%AB%A0/8.1.png)
 异常分为异步异常和同步异常。异步异常是硬件中断（称为中断处理程序），是有外部IO设备造成的，同步异常是执行当前指令的结果（称为故障指令）。
+
 ![](https://github.com/ABHCYL/Learn-Csapp/blob/main/%E7%AC%AC8%E7%AB%A0/8.2.png)
 
 ### 8.2 进程
